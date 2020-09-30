@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Incca Sistemas](https://incca.com.br/)!
 - 🌱 I am currently learning React, React-Native and node using typescript
-- ⚡ Fun fact: I love to play counter-strike: global offensive
+- ⚡ Fun fact: I love to play counter-strike: global offensive and play soccer
 
 <br />
 
