@@ -30,12 +30,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-
-</details>
-
 [instagram]: https://www.instagram.com/linalmeida02
 [linkedin]: https://www.linkedin.com/in/linykeer-almeida-b7712015a
 
