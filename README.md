@@ -2,7 +2,7 @@
 
 ## I'm a Developer
 
-- 🔭 I’m currently working on [Loja do Mecanico](https://www.lojadomecanico.com.br/)!
+
 - 🌱 I'm a web developer using React, and mobile with Flutter
 - ⚡ Fun fact: I love to play counter-strike: global offensive and play soccer
 
